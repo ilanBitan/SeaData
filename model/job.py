@@ -1,5 +1,4 @@
 import mysql.connector
-# Replace the following variables with your MySQL server information
 host = 'localhost'
 port = '3306'
 user = 'root'
